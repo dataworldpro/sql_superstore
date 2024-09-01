@@ -1,4 +1,4 @@
----------- Superstore Tableau Dateset analysis using SQl---------------
+---------- Superstore Tableau Dateset analysis using SQL ---------------
 
 select * from orders
 select * from people
